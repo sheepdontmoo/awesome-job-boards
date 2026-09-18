@@ -152,6 +152,7 @@ A curated list of awesome niche job boards.
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+* [Remote1stJobs](https://www.remote1stjobs.com/) - UK, Europe & EMEA remote-first jobs; filters out US-only/fake-remote roles; salary-visible; RSS/JSON feeds
 
 ## Quantum Computing
 
